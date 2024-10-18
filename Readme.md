@@ -1,4 +1,4 @@
-
+## Credit to the Developer of this script
 
 ## Recommendation before use Cats&Dogs Script
 
