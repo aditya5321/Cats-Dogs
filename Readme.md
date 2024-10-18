@@ -43,7 +43,7 @@ Before you begin, make sure you have the following installed:
 ## Installation
 You can download the [**repository**](git@github.com:aditya5321/Cats-Dogs.git) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/outputman/CatsvsDogs
+git clone git@github.com:aditya5321/Cats-Dogs.git
 ```
 
 Then you can do automatic installation by typing:
