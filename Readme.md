@@ -41,9 +41,9 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](git@github.com:aditya5321/Cats-Dogs.git) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/aditya5321/Cats-Dogs.git) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone git@github.com:aditya5321/Cats-Dogs.git
+git clone https://github.com/aditya5321/Cats-Dogs.git
 ```
 
 Then you can do automatic installation by typing:
